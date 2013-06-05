@@ -1,5 +1,5 @@
 WinVersion - readme.txt
-Copyright (c) 2005 Nullriver Software. All rights reserved.
+Copyright (c) 2002 - 2013 Nullriver Software. All rights reserved.
 
 WinVersion is a utility to auto-increment your build numbers (something Visual
 Studio should do)
